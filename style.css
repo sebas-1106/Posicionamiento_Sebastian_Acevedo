@@ -18,12 +18,11 @@
     border: 1px dotted #9ad79b;
     padding-bottom: 20px;
     justify-items: center;
-    position: fixed;
     background-color: #252525 ;
     width: 100%;
   }
   .content{
-    position: absolute;
+    margin-top: 20px;;
     width: 100%;
     border: 1px dotted #9ad79b;
     padding-top: 20px;
