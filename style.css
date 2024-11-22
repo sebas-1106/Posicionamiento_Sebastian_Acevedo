@@ -18,18 +18,23 @@
     border: 1px dotted #9ad79b;
     padding-bottom: 20px;
     justify-items: center;
+    position: fixed;
     background-color: #252525 ;
     width: 100%;
   }
   .content{
     margin-top: 20px;;
     width: 100%;
+    position: relative;
+    top: 80px;
     border: 1px dotted #9ad79b;
     padding-top: 20px;
     padding-bottom: 20px;
   }
   .sidebar{
     justify-items: right;
+    position: relative;
+    top: 80px;
     border: 1px dotted #9ad79b;
     margin: 20px;
     margin-left: 90%;
@@ -37,10 +42,13 @@
   .features{
     justify-items: center;
     border: 1px dotted #9ad79b;
+    position: relative;
+    top: 80px;
 
   }
   .feature{
     justify-items: center;
+   
   }
   footer{
     margin-top: 300px;
